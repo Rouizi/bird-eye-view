@@ -1,5 +1,7 @@
 # Bird’s Eye View Perception
 
+![](bird_eye_view.gif)
+
 This repository contains my work on **Bird’s Eye View (BEV) transformation** using both classical and deep learning methods.  
 It includes inverse perspective mapping and deep learning-based multi-camera fusion by implementing **UNetXST** from the paper *"A Sim2Real Deep Learning Approach for the Transformation of Images from Multiple Vehicle-Mounted Cameras to a Semantically Segmented Image in Bird's Eye View."*
 
